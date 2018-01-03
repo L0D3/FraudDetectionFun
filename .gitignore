@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
+logs/
+model.h5
 creditcard.csv
 creditcardfraud.zip
